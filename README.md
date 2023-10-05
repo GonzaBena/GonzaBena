@@ -1,6 +1,7 @@
 # Hola, mi nombre es Gonzalo Benavente👋🏽
 
-![[Logo@2x.png| 200]]
+<img src="Logo@2x.png" width="200px"/>
+
 Soy programador python hace mas de 3 años.
 
 ## Tecnologías
